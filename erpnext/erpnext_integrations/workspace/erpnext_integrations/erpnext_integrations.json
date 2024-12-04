@@ -10,7 +10,7 @@
  "icon": "integration",
  "idx": 0,
  "is_hidden": 0,
- "label": "ERP Integrations",
+ "label": "AiBizzApp ERP Integrations",
  "links": [
   {
    "hidden": 0,
@@ -225,8 +225,8 @@
  ],
  "modified": "2023-08-29 15:48:59.010704",
  "modified_by": "Administrator",
- "module": "ERP Integrations",
- "name": "ERP Integrations",
+ "module": "ERPNext Integrations",
+ "name": "AiBizzApp ERP Integrations",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -241,8 +241,8 @@
    "doc_view": "List",
    "label": "Browse Apps",
    "type": "URL",
-   "url": "https://frappecloud.com/marketplace"
+   "url": "https://aibizzapp.com/marketplace"
   }
  ],
- "title": "ERP Integrations"
+ "title": "AiBizzApp ERP Integrations"
 }

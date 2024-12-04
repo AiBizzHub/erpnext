@@ -256,7 +256,7 @@
  "links": [],
  "modified": "2020-04-28 00:29:18.039826",
  "modified_by": "Administrator",
- "module": "ERP Integrations",
+ "module": "ERPNext Integrations",
  "name": "Tally Migration",
  "owner": "Administrator",
  "permissions": [

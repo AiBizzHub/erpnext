@@ -17,7 +17,7 @@ $.extend(frappe.breadcrumbs.preferred, {
 });
 
 $.extend(frappe.breadcrumbs.module_map, {
-	"ERP Integrations": "Integrations",
+	"ERPNext Integrations": "Integrations",
 	Geo: "Settings",
 	Portal: "Website",
 	Utilities: "Settings",
