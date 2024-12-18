@@ -16,7 +16,7 @@ from erpnext.setup.doctype.incoterm.incoterm import create_incoterms
 from .default_success_action import get_default_success_action
 
 default_mail_footer = """<div style="padding: 7px; text-align: right; color: #888"><small>Sent via
-	<a style="color: #888" href="http://erpnext.org">AiBizzApp ERP</a></div>"""
+	<a style="color: #888" href="http://aibizzapp.com">AiBizzApp ERP</a></div>"""
 
 
 def after_install():
@@ -168,21 +168,15 @@ def add_standard_navbar_items():
 
 	erpnext_navbar_items = [
 		{
-			"item_label": "Documentation",
-			"item_type": "Route",
-			"route": "https://docs.aibizzapp.com/",
-			"is_standard": 1,
-		},
-		{
 			"item_label": "AiBizzHub School",
 			"item_type": "Route",
-			"route": "https://aibizzhub.school?utm_source=in_app",
+			"route": "https://kiacademy.in/current-courses/98",
 			"is_standard": 1,
 		},
 		{
 			"item_label": "Report an Issue",
 			"item_type": "Route",
-			"route": "https://aibizzapp.com",
+			"route": "https://aibizzhub.io",
 			"is_standard": 1,
 		},
 	]
